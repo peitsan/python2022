@@ -1,0 +1,1 @@
+tf = open(read.txt)
